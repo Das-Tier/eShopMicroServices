@@ -22,10 +22,4 @@
       <PackageReference Include="Marten" Version="7.34.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Products\DeleteProduct\" />
-      <Folder Include="Products\GetProductByCategory\" />
-      <Folder Include="Products\UpdateProduct\" />
-    </ItemGroup>
-
 </Project>
